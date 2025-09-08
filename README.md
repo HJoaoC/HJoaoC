@@ -9,7 +9,7 @@ Sou Joao desenvolvedor Full Stack em início de carreira, apaixonado por program
   - <img src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node" />
   - <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt= "logo-JS" />
 
-  [![joaovitor stats](https://github-readme-stats.vercel.app/api?username=Joaovitor)](https://github.com/anuraghazra/github-readme-stats)
+  [![joaovitobarbosa stats](https://github-readme-stats.vercel.app/api?username=joaovitorbarbosa)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor)](https://github.com/anuraghazra/github-readme-stats)
    
