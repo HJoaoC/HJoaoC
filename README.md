@@ -50,11 +50,6 @@ Tenho interesse em **desenvolvimento de Software, buscando evoluir constantement
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-## 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HJoaoC&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJoaoC&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🚀 Filosofia
 > _"Aprender programação é aprender a pensar melhor."  
